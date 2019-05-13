@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Django template
+# IntelliJ project files
+.idea
+*.iml
+.vscode
+.history
+
+# macOS
+.DS_Store
+
+# Virtual env
+/venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+nohup.out
